@@ -35,7 +35,7 @@ There may be some changes to the schedule.
 ## Office hours
 **Professor** : 
   - Office: Bldg. 302, Rm. 322
-  - Tue, Thur 15:30-17:00, by appointment (TBD)
+  - Tue, Thur 15:30-16:30, by appointment (TBD)
 
 **TAs** :
 
