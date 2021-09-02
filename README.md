@@ -52,6 +52,6 @@ Changjin Jeong
 Soyoung Jung
   - Email: juliejung0905@gmail.com
   - Office: Bldg. 302, Rm. 420
-  - Office hour: Monday 17:00~18:00 (TBD)
+  - Office hour: Monday 16:00~17:00 (TBD)
 
 (Please send TAs an email ahead of time, we can set up a specific time and place)
