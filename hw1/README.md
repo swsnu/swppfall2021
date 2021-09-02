@@ -108,16 +108,16 @@ The content of the csv file should be as follows:
 
 ```
 $ tail -10 /{YOUR_HW_PATH}/babydata/babyname.report.csv
-2018,991,Emmarie,F,
-2018,992,Esperanza,F,30
-2018,993,Kailyn,F,90
-2018,994,Aiyana,F,147
+2018,991,Valery,F,
+2018,992,Aiyana,F,145
+2018,993,Azaria,F,
+2018,994,Kailyn,F,91
 2018,995,Keilani,F,
-2018,996,Austyn,F,
+2018,996,Evalyn,F,45
 2018,997,Whitley,F,
-2018,998,Elina,F,
-2018,999,Kimora,F,34
-2018,1000,Maliah,F,72
+2018,998,Austyn,F,
+2018,999,Danica,F,128
+2018,1000,Elina,F,
 
 $ head -10 /{YOUR_HW_PATH}/babydata/babyname.report.csv
 year,rank,name,gender,rank_delta
