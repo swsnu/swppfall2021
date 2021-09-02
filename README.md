@@ -1,7 +1,7 @@
 # M1522.002400 Principles and Practices of Software Development
 
 ## Announcements
-- [ ] HW1 out: 9/2 (Thur); due 9/10 (Fri) 6pm
+- [ ] [HW1](hw1) out: 9/2 (Thur); due 9/10 (Fri) 6pm
 - [ ] Team formation due 9/12 (Sun) 6pm
 - [ ] Project proposal due 9/24 (Fri) 6pm
 
@@ -32,7 +32,7 @@ There may be some changes to the schedule.
 |12/7,9 | TBD | Testing Session | |
 |12/17 | Project poster session | | Project final report (due 12/17 6pm) |
 
-## Office hours
+## Online Office Hours
 **Professor** : 
   - Office: Bldg. 302, Rm. 322
   - Tue, Thur 15:30-16:30, by appointment (TBD)
