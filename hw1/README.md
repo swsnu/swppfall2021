@@ -103,7 +103,7 @@ The same applies to the `fetch.py`.
 In `run.py` file, a skeleton code using the parser is provided.
 Your task is to complete the code to parse all the html files that contain the popular baby names `BabynameParser`, and save all the data in a single csv file.
 
-When you run `python run.py 2001 2018`,the script must generate a csv file named `babyname.report.csv` under `babydata` directory. 
+When you run `python run.py 2001 2018`,the script must generate a csv file named `babyname.report.csv` under `babydata` directory.
 The content of the csv file should be as follows:
 
 ```
@@ -120,7 +120,7 @@ $ tail -10 /{YOUR_HW_PATH}/babydata/babyname.report.csv
 2018,1000,Elina,F,
 
 $ head -10 /{YOUR_HW_PATH}/babydata/babyname.report.csv
-year,rank,name,gender,rank_delta
+year,rank,name,gender,rank_change
 2001,1,Jacob,M,
 2001,2,Michael,M,
 2001,3,Matthew,M,
@@ -189,7 +189,7 @@ Also, make sure to push your work on Github on time.
     * **If you make your repository public, you will get 0 point for the HW1.**
 4. Click `Create repository`.
 5. In terminal, go to the directory that you will be working in (e.g., `~/workspace/swpp-hw1-USERNAME` or `~/swpp-hw1-USERNAME`)
-6. Type in and run the following commands. You can also find the same instructions on Github after taking step 4. 
+6. Type in and run the following commands. You can also find the same instructions on Github after taking step 4.
 
 ```
 echo "# asdf" > README.md
