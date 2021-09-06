@@ -10,6 +10,11 @@ This is an **individual** assignment.
 From the beginning to the end of the development, you must use **GitHub** for version control.
 This will be used for your submission as well, so please keep it in mind.
 
+## Fix History
+Click the links to see the commits that made changes.
+- 9/7
+  - [Correction: fix the example of `3.Fill the run script` in README.md](https://github.com/swsnu/swppfall2021/commit/1f39aabc2c45ea3eafcea36b339564608dc1ea74)
+
 ## Python
 
 ### Objective
