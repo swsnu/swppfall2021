@@ -2,6 +2,7 @@
 
 ## Announcements
 - [ ] [HW1](hw1) out: 9/2 (Thur); due 9/10 (Fri) 6pm
+- [ ] [HW2](hw2) out: 9/9 (Thur); due 9/17 (Fri) 6pm
 - [ ] Team formation due 9/12 (Sun) 6pm
 - [ ] Project proposal due 9/24 (Fri) 6pm
 
