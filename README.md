@@ -27,7 +27,7 @@ There may be some changes to the schedule.
 |10/19,21 | Design patterns | Design Pattern | Project sprint 2 begin |
 |10/26,28 | Design patterns; code refactoring | Code Refactoring | HW4 due 10/28 6pm |
 |11/2,4 | Operation | Integration + CI + SonarCloud | Project sprint 3 begin |
-|11/9,11 | Operation, Mid-presentation | Project Mid Presentation | The mid presentation session will be on both 11/10 and 11/11. |
+|11/9,11 | Operation, Mid-presentation | Project Mid Presentation | The mid presentation session will be on 11/11. |
 |11/16,18 | ML pipeline | Deployment | Project sprint 4 begin |
 |11/23,25 | ML pipeline | Final Exam 11/25 | Coding exams (Minimum 4 hours) |
 |11/30,12/2 | Operation | Optimization | Project sprint 5 begin |
