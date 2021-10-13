@@ -38,11 +38,16 @@ Briefly identify the competitors in this market, and list the main ways in which
 (**Must include in the first version**)
 
 **User Stories**<br />
-This section will include the specification for your project in the form of user stories. For each user story, you should have at least a Feature and one or more Scenarios, each of which can have one or more Acceptance Tests. Acceptance Tests list one or more acceptance tests with concrete values for the parameters, and concrete assertions that you will make to verify the postconditions. Each user story should also have a field called "Sprint" where you specify in which sprint you implemented or plan to implement this feature.
-You should list only the user stories for the previous sprints and those for the current sprint.
+This section will include the specification for your project in the form of user stories.
+For each user story, you should have at least a Feature and one or more Scenarios, each of which can have one or more Acceptance Tests.
+Acceptance Tests list one or more acceptance tests with concrete values for the parameters, and concrete assertions that you will make to verify the postconditions.
+You have to at least write user stories in detail (including Acceptance Tests) for the features to be implemented by this sprint.
+You can include user stories for the future sprints, and extend or modify the user stories in the following sprints.
 
-At the end of this section you should maintain a bullet list of user stories that you plan to get to in future sprints, with only minimal detail for each such story. We expect that in future sprints some of these items will be promoted to full fledged user stories.
+At the end of this section you should maintain a bullet list of user stories with a field called “Sprint” where you specify in which sprint you implemented or plan to implement this feature (e.g. Login - Sprint 2).
+We expect that in future sprints some of these items will be promoted to full-fledged user stories in the corresponding sprint.
 (**Must include in the first version, and must be expanded for future sprints**)
+
 
 **User Interface Requirements**<br />
 Describes any customer user interface requirements including graphical user interface requirements. Here you should have sketches or mockups for the main parts of the interface. To save time you may want to use scanned drawings of interface mockups here, instead of Photoshop drawings.
