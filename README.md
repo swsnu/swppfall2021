@@ -4,8 +4,9 @@
 - [x] [HW1](hw1) out: 9/2 (Thur); due 9/10 (Fri) 6pm
 - [x] [HW2](hw2) out: 9/9 (Thur); due 9/17 (Fri) 6pm
 - [x] Team formation due 9/12 (Sun) 6pm
-- [ ] [HW3](hw3) out: 9/17 (Fri); due 10/7 (Thur) 6pm (Feature), 10/14 (Thur) 6pm (Testing)
+- [x] [HW3](hw3) out: 9/17 (Fri); due 10/7 (Thur) 6pm (Feature), 10/14 (Thur) 6pm (Testing)
 - [x] Project proposal due 9/24 (Fri) 6pm
+- [ ] [HW4](hw4) out: 10/15 (Fri); due 11/4 (Thur) 6pm
 
 ## [Project Guideline](project)
 
@@ -24,7 +25,7 @@ There may be some changes to the schedule.
 |9/28, 30 | Testing | Frontend Testing (Jest + Enzyme) | |
 |10/5,7 | Software development process; Design patterns | Frontend Q&A | Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint), <br/> HW3(feature) due 10/7 6pm|
 |10/12,14 | Taming complexity; defensive programming; Design patterns | Django | HW3(testing) due 10/14 6pm |
-|10/19,21 | Design patterns | Django + Python Testing | HW4 out 10/18, <br/> Project sprint 2 begin |
+|10/19,21 | Design patterns | Django + Python Testing | HW4 out 10/15, <br/> Project sprint 2 begin |
 |10/26,28 | Design patterns; code refactoring | Design Pattern + Code Refactoring | |
 |11/2,4 | Operation | Integration + CI + SonarCloud | HW4 due 11/4 6pm, <br/> Project sprint 3 begin |
 |11/9,11 | Operation, Mid-presentation | Project Mid Presentation | The mid presentation session will be on 11/11. |
