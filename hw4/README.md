@@ -195,7 +195,7 @@ We'll try to give some partial points in this case, but it might not be enough.
 ## FAQs from past SWPP courses
 
 Q1. What is the priority for the error status codes?     
-A1. You do not need to worry about the priority of the error status codes. We will not test cases where more than one error status code could be met.
+A1. The priority between error status codes is 405 > 401 > 404 > 403. **However**, you do not need to worry about cases that are combinations of 400 + (405, 401, 404, 403). That is, we do not test cases in which the user sent un-decodable payload with not allowed HTTP request.
 
 Q2. If there is an empty list of Articles or Comments, what should be the return code and value?    
 A2. You should return a 404 if no article exists. If an article exists but no comments exist, you should return an empty json response.
@@ -210,7 +210,7 @@ Q5. I cannot see information contained at cookie when using POSTMAN.
 A5. Please use the POSTMAN app instead of chrome extension. 
 
 Q6. Should we handle 400 bad request?  
-A6. You don't need to take care of 400 bad request for this HW. That is, you may assume that frontend always sends well-formatted data.
+A6. Handling 400 bad request is a good practice, and we've covered how to catch KeyError and JSONDecodeError during practice session. We recommend you to handle 400 for the better code quality of your DJango API server. **However**, we do not test 400 for this HW. That is, you may assume that frontend always sends well-formatted data.
 
 ## Submission
 
