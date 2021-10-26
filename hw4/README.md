@@ -198,7 +198,7 @@ Q1. What is the priority for the error status codes?
 A1. The priority between error status codes is 405 > 401 > 404 > 403. **However**, you do not need to worry about cases that are combinations of 400 + (405, 401, 404, 403). That is, we do not test cases in which the user sent un-decodable payload with not allowed HTTP request.
 
 Q2. If there is an empty list of Articles or Comments, what should be the return code and value?    
-A2. You should return a 404 if no article exists. If an article exists but no comments exist, you should return an empty json response.
+A2. If your Django API server received GET request to /api/article/ and the article list is empty, then the API server should return an empty list with 200 status code. If the API server received GET request to /api/article/:article_id/comment/ and the comment list of the article_id is empty, then the server should return an empty list with 200 status code. Please note that these two cases are different from cases where the request gets sent to non-existing article. Regarding requests to non-existing resources, the API server should return 404 status code.
 
 Q3. Any tips for how to tackle CSRF related issues?       
 A3. Please refer to this [github issue](https://github.com/swsnu/swppfall2020/issues/164).
