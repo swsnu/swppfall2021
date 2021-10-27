@@ -35,7 +35,7 @@ Note : Every document for each milestones must be written in **English**!
 | Sprint 1 | Oc1. 5 (Tue)| Oct. 16 (Sat), 6pm(report due) | TH/F |
 | Sprint 2 | Oct. 18 (Mon)| Oct. 30 (Sat), 6pm(report due) | TH/F |
 | Sprint 3 | Nov. 1 (Mon)| Nov. 13 (Sat), 6pm(report due) | TH/F |
-| Project progress presentation | Nov. 10, Nov. 11 | | |
+| Project progress presentation | Nov. 11 | | |
 | Sprint 4 | Nov. 15 (Mon)| Nov. 27 (Sat), 6pm(report due) | TH/F |
 | Sprint 5 | Nov. 29 (Mon)| Dec. 11 (Sat), 6pm(report due) | TH/F |
 | Final poster | Dec. 16 (Thu) | | |
