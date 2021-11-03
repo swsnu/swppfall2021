@@ -26,12 +26,12 @@ There may be some changes to the schedule.
 |10/5,7 | Software development process; Design patterns | Frontend Q&A | Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint), <br/> HW3(feature) due 10/7 6pm|
 |10/12,14 | Taming complexity; defensive programming; Design patterns | Django | HW3(testing) due 10/14 6pm |
 |10/19,21 | Design patterns | Django + Python Testing | HW4 out 10/15, <br/> Project sprint 2 begin |
-|10/26,28 | Design patterns; code refactoring | Design Pattern + Code Refactoring | |
-|11/2,4 | Operation | Integration + CI + SonarCloud | HW4 due 11/4 6pm, <br/> Project sprint 3 begin |
+|10/26,28 | Design patterns; code refactoring | Integration + CI + SonarCloud | |
+|11/2,4 | Operation | Design Pattern | HW4 due 11/4 6pm, <br/> Project sprint 3 begin |
 |11/9,11 | Operation, Mid-presentation | Project Mid Presentation | The mid presentation session will be on 11/11. |
 |11/16,18 | ML pipeline | Deployment | Project sprint 4 begin |
-|11/23,25 | ML pipeline | Final Exam 11/25 | Coding exams (Minimum 4 hours) |
-|11/30,12/2 | Operation | Optimization | Project sprint 5 begin |
+|11/23,25 | ML pipeline | Code Refactoring + Optimization | |
+|11/30,12/2 | Operation | Final Exam 12/2 | Coding exams (Minimum 4 hours), <br/> Project sprint 5 begin |
 |12/7,9 | TBD | Testing Session | |
 |12/17 | Project poster session | | Project final report (due 12/17 6pm) |
 
