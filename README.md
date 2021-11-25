@@ -58,3 +58,19 @@ Soyoung Jung
   - Office hour: Monday 16:00~17:00 (TBD)
 
 (Please send TAs an email ahead of time, we can set up a specific time and place)
+
+## Project Teams
+- Team 1 : [ReJourN](https://github.com/swsnu/swpp2021-team1)
+- Team 2 : [Smart Travel](https://github.com/swsnu/swpp2021-team2)
+- Team 3 : [Troll Detector](https://github.com/swsnu/swpp2021-team3)
+- Team 4 : [Tripick](https://github.com/swsnu/swpp2021-team4)
+- Team 5 : [Kitchen Vesta](https://github.com/swsnu/swpp2021-team5)
+- Team 6 : [Woori Dong-saeng](https://github.com/swsnu/swpp2021-team6)
+- Team 7 : [Vidol](https://github.com/swsnu/swpp2021-team7)
+- Team 8 : [Subroker](https://github.com/swsnu/swpp2021-team8)
+- Team 9 : [Bandcruit](https://github.com/swsnu/swpp2021-team9)
+- Team 10 : [Connectoon](https://github.com/swsnu/swpp2021-team10)
+- Team 11 : [Soolae](https://github.com/swsnu/swpp2021-team11)
+- Team 12 : [MeetHub](https://github.com/swsnu/swpp2021-team12)
+- Team 13 : [ProbLoom](https://github.com/swsnu/swpp2021-team13)
+- Team 14 : [FitVox](https://github.com/swsnu/swpp2021-team14)
